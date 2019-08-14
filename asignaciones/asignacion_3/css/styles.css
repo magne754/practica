@@ -55,10 +55,10 @@ p{
 }
 
 .navigation ul{
-    margin: 0;
-    padding: 0;
+    margin: auto;
+    width: 90%;
     list-style: none;
-    align-items: center;
+    overflow: hidden;
 }
 
 .navigation ul li{
