@@ -58,7 +58,7 @@ p{
     margin: 0;
     padding: 0;
     list-style: none;
-    overflow: hidden;
+    align-items: center;
 }
 
 .navigation ul li{
