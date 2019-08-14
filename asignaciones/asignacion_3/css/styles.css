@@ -55,7 +55,7 @@ p{
 }
 
 .navigation ul{
-    margin: auto;
+    margin: 0;
     width: 90%;
     list-style: none;
     overflow: hidden;
