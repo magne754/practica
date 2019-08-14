@@ -29,16 +29,5 @@
         color: #4a4a4a;
     }
     
-    body{
-        font-family: georgia, times, serif;
-        color: #1F3C88;
-        font-size: 1.3rem;
-        line-height: 1.6em;
-        margin: 0;
-        background: #1E90FF;
-    }
     
-    #banner{
-        width: 100%;
-    }
 }
