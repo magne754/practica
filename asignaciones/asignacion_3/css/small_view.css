@@ -6,9 +6,10 @@
     }
     .navigation{
         width: 100%;
-        margin-top: 1rem;
+        top: 0;
     }
     .navigation ul{
+        
         display: none;   
     }
     .navigation ul.show{
