@@ -15,7 +15,6 @@
 </head>
 
 <body>
-
     <header class="header">
         <nav class="navigation">
             <div class="container logo-nav-container">
@@ -62,12 +61,13 @@
     <footer>
         <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
         <script src="js/logo.js"></script>
-        <script>
-            var meses = new Array ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
-            var f=new Date();
-            document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
+        <div class="patito">
+            <script>
+                var meses = new Array ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
+                var f=new Date();
+                document.write(f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
             </script>
+        </div>
     </footer>
 </body>
-
 </html>
